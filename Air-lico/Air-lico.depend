@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440272250 source:/home/hash/GIT/Air-lico/Air-lico/01_hello_SDL.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+
